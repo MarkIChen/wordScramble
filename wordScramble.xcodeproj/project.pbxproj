@@ -15,6 +15,7 @@
 		0AA9623724654EC0008FF7AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA9623524654EC0008FF7AB /* LaunchScreen.storyboard */; };
 		0AA9624224654EC1008FF7AB /* wordScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA9624124654EC1008FF7AB /* wordScrambleTests.swift */; };
 		0AA9624D24654EC1008FF7AB /* wordScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA9624C24654EC1008FF7AB /* wordScrambleUITests.swift */; };
+		0ADCED20246E854600DDF4DE /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0ADCED1F246E854600DDF4DE /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0AA9624824654EC1008FF7AB /* wordScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = wordScrambleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AA9624C24654EC1008FF7AB /* wordScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wordScrambleUITests.swift; sourceTree = "<group>"; };
 		0AA9624E24654EC1008FF7AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0ADCED1F246E854600DDF4DE /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0AA9622E24654EB9008FF7AB /* ContentView.swift */,
 				0AA9623024654EC0008FF7AB /* Assets.xcassets */,
 				0AA9623524654EC0008FF7AB /* LaunchScreen.storyboard */,
+				0ADCED1F246E854600DDF4DE /* start.txt */,
 				0AA9623824654EC1008FF7AB /* Info.plist */,
 				0AA9623224654EC0008FF7AB /* Preview Content */,
 			);
@@ -241,6 +244,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AA9623724654EC0008FF7AB /* LaunchScreen.storyboard in Resources */,
+				0ADCED20246E854600DDF4DE /* start.txt in Resources */,
 				0AA9623424654EC0008FF7AB /* Preview Assets.xcassets in Resources */,
 				0AA9623124654EC0008FF7AB /* Assets.xcassets in Resources */,
 			);
